@@ -1,0 +1,23 @@
+html,
+body,
+h1,
+h2,
+h3,
+ul,
+li {
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+  margin: 0;
+  padding: 0 0 0 15px;
+  border: 0;
+  font-size: 100%;
+}
+
+body {
+  background: #233142;
+  font-family: helvetica, arial, sans-serif;
+  font-size: 14px;
+  color: #333333;
+  line-height: 1;
+}
